@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi!",
+  "name": "Huỳnh Nhi",
+  "greetingText": "Anh thật sự rất yêu em!",
+  "wishText": "Mong em đừng bao giờ bỏ rơi anh! :'(",
+  "imagePath": "img/lydia2.png",
+  "text1": "Chúc em ngày lễ vui vẻ!!! :D",
+  "textInChatBox": "Mong em quay lại với anh. Vì em là người quan trọng nhất với anh...",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đó là những lời mà anh muốn nói :3",
+  "text3": "Ơ... khoan! Đừng thoát nó. Sẽ còn chuyện bất ngờ tiếp...",
+  "text4": "Anh nhận ra, thiếu em anh không thể nào chịu nỗi. Vì em rất",
+  "text4Adjective": "đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Em rất quan trọng với anh",
+  "smiley": ":)",
+  "bigTextPart1": "V",
+  "bigTextPart2": "Ì",
+  "wishHeading": "Chúc cục cưng ngày lễ!",
+  "outroText": "Cám ơn em đã giành chút thời gian xem tâm tư của anh.",
+  "replayText": "Em yêu kích nó để thoát ra.",
+  "outroSmiley": ":)"
+}
